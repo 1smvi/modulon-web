@@ -45,7 +45,7 @@ export default function Home() {
         href="#"
         className="mt-8 flex items-center justify-center px-6 py-3 border rounded-full text-white mb-1 hover:bg-purple-600 transition duration-300 transform hover:scale-105"
       >
-        <img src='/discordlogo.svg' width={20} alt="Discord Logo" className="mr-2" />
+        <img src='/discordlogo.svg' width={20} alt="Discord Logo" className="text-black mr-2" />
         Join Our Discord
       </a>
       <p className='mb-10 text-xs text-gray-500 hover:text-white transition'>currently unavailable</p>
